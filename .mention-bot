@@ -3,5 +3,5 @@
   "requiredOrgs": ["Microsoft"],
   "skipAlreadyAssignedPR": true,
   "skipAlreadyMentionedPR": true,
-  "skipCollaboratorPR": true
+  "skipCollaboratorPR": false
 }
